@@ -6,17 +6,23 @@ I am a front-end developer (`TS`, `React`, `Webpack`), and also write in the `Ru
 
 ### Some of my repos `JavaScript`/`TypeScript`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=react-min-boilerplate)](https://github.com/vglinka/react-min-boilerplate)
+[![react-min-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=react-min-boilerplate)](https://github.com/vglinka/react-min-boilerplate)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-localstorage)](https://github.com/vglinka/storage-facade-localstorage)
+[![storage-facade](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade)](https://github.com/vglinka/storage-facade)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=vobla.js-demo)](https://vglinka.github.io/vobla.js-demo/)
+[![storage-facade-localstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-localstorage)](https://github.com/vglinka/storage-facade-localstorage)
+
+[![storage-facade-sessionstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-sessionstorage)](https://github.com/vglinka/storage-facade-sessionstorage)
+
+[![storage-facade-map](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-map)](https://github.com/vglinka/storage-facade-map)
+
+[![vobla.js-demo](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=vobla.js-demo)](https://vglinka.github.io/vobla.js-demo/)
 
 ### `Rust`
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=nolog)](https://github.com/vglinka/nolog)
+[![nolog](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=nolog)](https://github.com/vglinka/nolog)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=mbench)](https://github.com/vglinka/mbench)
+[![mbench](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=mbench)](https://github.com/vglinka/mbench)
 
 
 <!--
