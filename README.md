@@ -9,12 +9,12 @@ I am a front-end developer (`TS`, `React`, `Webpack`), and also write in the `Ru
 [![react-min-boilerplate](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=react-min-boilerplate)](https://github.com/vglinka/react-min-boilerplate)
 
 [![storage-facade](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade)](https://github.com/vglinka/storage-facade)
+  
+   [![storage-facade-localstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-localstorage)](https://github.com/vglinka/storage-facade-localstorage)
 
-[![storage-facade-localstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-localstorage)](https://github.com/vglinka/storage-facade-localstorage)
+   [![storage-facade-sessionstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-sessionstorage)](https://github.com/vglinka/storage-facade-sessionstorage)
 
-[![storage-facade-sessionstorage](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-sessionstorage)](https://github.com/vglinka/storage-facade-sessionstorage)
-
-[![storage-facade-map](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-map)](https://github.com/vglinka/storage-facade-map)
+   [![storage-facade-map](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=storage-facade-map)](https://github.com/vglinka/storage-facade-map)
 
 [![vobla.js-demo](https://github-readme-stats.vercel.app/api/pin/?username=vglinka&repo=vobla.js-demo)](https://vglinka.github.io/vobla.js-demo/)
 
